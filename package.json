@@ -7,5 +7,10 @@
     "init": "cd client && yarn && cd ../server && yarn",
     "client": "cd client && yarn dev",
     "server": "cd server && yarn start"
-  }
+  },
+  "description": "> 3일차 실습을 위한 스켈레톤 코드 및 샘플 서버입니다. 강의를 듣고 설명에 따라 실습을 진행해보세요!",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
 }
